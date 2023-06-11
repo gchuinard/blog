@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class PortfoliobackRestConfig(AppConfig):
+class blogbackRestConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'portfolioback_rest'
+    name = 'blogback_rest'

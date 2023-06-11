@@ -1,5 +1,5 @@
 """
-WSGI config for portfolioback project.
+WSGI config for blogback project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 

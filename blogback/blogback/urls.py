@@ -1,5 +1,5 @@
 """
-URL configuration for portfolioback project.
+URL configuration for blogback project.
 
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/4.2/topics/http/urls/
@@ -19,7 +19,7 @@ from django.views.generic import TemplateView
 from django.contrib import admin
 from django.http import HttpResponse
 from django.urls import path, include, re_path
-from portfolioback_rest.views import hello_view
+from blogback_rest.views import hello_view
 
 
 urlpatterns = [
