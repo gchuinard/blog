@@ -1,0 +1,15 @@
+.section-apropos {
+    width: 100%;
+    height: auto;
+    color: #ece8e6;
+    text-align: center;
+    background-color: #2c142d;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    position: relative;
+    overflow: hidden;
+}
